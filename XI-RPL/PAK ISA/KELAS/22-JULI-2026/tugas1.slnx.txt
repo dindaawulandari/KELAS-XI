@@ -1,3 +1,0 @@
-<Solution>
-  <Project Path="tugas1/tugas1.csproj" />
-</Solution>
