@@ -1,0 +1,10 @@
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\bin\Debug\StopwatchSederhana1.exe.config
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\bin\Debug\StopwatchSederhana1.exe
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\bin\Debug\StopwatchSederhana1.pdb
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\obj\Debug\StopwatchSederhana1.csproj.AssemblyReference.cache
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\obj\Debug\StopwatchSederhana1.Form1.resources
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\obj\Debug\StopwatchSederhana1.Properties.Resources.resources
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\obj\Debug\StopwatchSederhana1.csproj.GenerateResource.cache
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\obj\Debug\StopwatchSederhana1.csproj.CoreCompileInputs.cache
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\obj\Debug\StopwatchSederhana1.exe
+C:\Users\BCI\source\repos\StopwatchSederhana1\StopwatchSederhana1\obj\Debug\StopwatchSederhana1.pdb
